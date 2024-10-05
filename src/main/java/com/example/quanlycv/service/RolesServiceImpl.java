@@ -1,8 +1,8 @@
-package com.example.quanlycv.Service;
+package com.example.quanlycv.service;
 
-import com.example.quanlycv.Rep.NguoiDungRepo;
-import com.example.quanlycv.Rep.NhanVienRepo;
-import com.example.quanlycv.Rep.VaiTroRepo;
+import com.example.quanlycv.repository.NguoiDungRepo;
+import com.example.quanlycv.repository.NhanVienRepo;
+import com.example.quanlycv.repository.VaiTroRepo;
 import com.example.quanlycv.entity.NguoiDung;
 import com.example.quanlycv.entity.NhanVien;
 import com.example.quanlycv.entity.VaiTro;

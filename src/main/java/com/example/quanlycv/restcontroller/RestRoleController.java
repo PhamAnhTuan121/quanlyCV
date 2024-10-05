@@ -1,6 +1,6 @@
 package com.example.quanlycv.restcontroller;
 
-import com.example.quanlycv.Service.RolesService;
+import com.example.quanlycv.service.RolesService;
 import com.example.quanlycv.entity.NguoiDung;
 import com.example.quanlycv.entity.NhanVien;
 import org.springframework.beans.factory.annotation.Autowired;

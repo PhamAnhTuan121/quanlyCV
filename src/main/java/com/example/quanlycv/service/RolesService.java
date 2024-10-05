@@ -1,6 +1,5 @@
-package com.example.quanlycv.Service;
+package com.example.quanlycv.service;
 
-import com.example.quanlycv.dto.NguoiDungDTO;
 import com.example.quanlycv.entity.NguoiDung;
 import com.example.quanlycv.entity.NhanVien;
 import com.example.quanlycv.entity.VaiTro;
